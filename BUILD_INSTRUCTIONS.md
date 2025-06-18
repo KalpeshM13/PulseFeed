@@ -37,23 +37,6 @@ android {
 
 The signed APK will be at: `app/build/outputs/apk/release/app-release.apk`
 
-## 📱 Distribution Options
-
-### Option 1: Google Play Store (Recommended)
-1. Create a Google Play Console account
-2. Upload the signed APK
-3. Fill in app details, screenshots, and description
-4. Submit for review
-
-### Option 2: Direct APK Sharing
-1. Upload the signed APK to Google Drive, Dropbox, or similar
-2. Share the download link with colleagues
-3. They can install directly on their devices
-
-### Option 3: GitHub Releases
-1. Create a GitHub release
-2. Upload the signed APK as a release asset
-3. Share the release URL
 
 ## 🔧 Setup Instructions for Users
 
@@ -78,7 +61,7 @@ The signed APK will be at: `app/build/outputs/apk/release/app-release.apk`
 
 ### Clone and Build:
 ```bash
-git clone <repository-url>
+git clone https://github.com/KalpeshM13/PulseFeed
 cd PulseFeed
 ./gradlew assembleDebug
 ```
