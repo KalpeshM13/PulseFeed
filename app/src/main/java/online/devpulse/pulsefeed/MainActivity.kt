@@ -38,7 +38,8 @@ class MainActivity : ComponentActivity() {
             var currentTheme by remember { mutableStateOf(preferencesManager.getThemeMode()) }
             var selectedArticle by remember { mutableStateOf<Article?>(null) }
             var showExitDialog by remember { mutableStateOf(false) }
-            
+
+
             // Handle back button press
             LaunchedEffect(selectedArticle) {
                 onBackPressedDispatcher.addCallback(
