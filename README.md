@@ -21,17 +21,6 @@ A modern, beautiful Android news app built with Jetpack Compose, focused on deli
 
 ---
 
-## 🖼️ Screenshots
-
-- Top app bar with theme toggle and refresh
-- Search bar for instant news lookup
-- Horizontal category chips for quick filtering
-- Beautiful, accessible article cards
-- Full article detail view with back navigation
-- Smooth transitions and polished animations
-
----
-
 ## 🚀 Tech Stack
 
 - **Jetpack Compose** (UI)
@@ -48,7 +37,7 @@ A modern, beautiful Android news app built with Jetpack Compose, focused on deli
 
 1. **Clone the repo**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/KalpeshM13/PulseFeed
    cd PulseFeed
    ```
 2. **Get a NewsAPI key**
@@ -93,7 +82,7 @@ Pull requests are welcome! Please open an issue first to discuss major changes.
 
 ## 📄 License
 
-MIT License. See [LICENSE](https://github.com/KalpeshM13/PulseFeed/blob/main/LICENSE) for details.
+MIT License. See [LICENSE](https://github.com/KalpeshM13/PulseFeed/blob/master/LICENSE) for details.
 
 ---
 
