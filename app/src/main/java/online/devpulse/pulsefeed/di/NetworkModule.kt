@@ -36,7 +36,7 @@ object NetworkModule {
             .addInterceptor { chain ->
                 val original = chain.request()
                 val url = original.url.newBuilder()
-                    .addQueryParameter("apiKey", "01d29f19ad1e40f5b167d6c15a66bcbc") // Replace with your actual API key
+                    .addQueryParameter("apiKey", "YOUR_API_KEY") // Replace with your actual API key
                     .build()
                 val request = original.newBuilder().url(url).build()
                 chain.proceed(request)
