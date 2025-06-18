@@ -93,7 +93,7 @@ Pull requests are welcome! Please open an issue first to discuss major changes.
 
 ## 📄 License
 
-MIT License. See [LICENSE](LICENSE) for details.
+MIT License. See [LICENSE](https://github.com/KalpeshM13/PulseFeed/blob/main/LICENSE) for details.
 
 ---
 
