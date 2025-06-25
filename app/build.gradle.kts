@@ -8,14 +8,14 @@ plugins {
 
 android {
     namespace = "online.devpulse.pulsefeed"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "online.devpulse.pulsefeed"
         minSdk = 24
         targetSdk = 35
         versionCode = 1
-        versionName = "1.0.1"
+        versionName = "1.0.2"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }

@@ -35,6 +35,15 @@ A modern, beautiful Android news app built with Jetpack Compose, focused on deli
 
 ## 🛠️ Getting Started
 
+### 👥 For Visitors ###
+
+**Download the APK File**
+   - Enable "Install from Unknown Sources"
+   - Find the latest release file [here](https://github.com/KalpeshM13/PulseFeed/releases/tag/Release)
+   - Once downloaded, Install the app
+
+### 💻 For Developers ###
+
 1. **Clone the repo**
    ```bash
    git clone https://github.com/KalpeshM13/PulseFeed
